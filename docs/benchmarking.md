@@ -28,6 +28,9 @@ The OpenDataLoader repository is external and keeps its normal
 temporary directory before evaluating it, so the baseline and candidate cannot
 overwrite one another.
 
+For exact row and column checks on a small fixture, see the
+[PDF table cell regression checker](table-cell-regressions.md).
+
 ## Published comparison protocol
 
 The public benchmark table was refreshed on July 31, 2026, on an Apple M4 Pro

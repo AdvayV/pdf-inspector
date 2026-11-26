@@ -1,0 +1,4 @@
+|Item|Received|Used|Remaining|
+|---|---|---|---|
+|Labels|12||24|
+|Boxes||3|9|
